@@ -10,3 +10,8 @@
 | Haloarcula sinaiiensis ATCC 33800  |         7 |         4537128 |       4483 |       0.848043 |          10273 |               103824 |
 | Haloarcula taiwanensis             |         4 |         3721706 |       3763 |       0.873088 |          24661 |               246002 |
 | Halomicrobium mukohataei DSM 12286 |         2 |         3332349 |       3369 |       0.867237 |          20863 |               207018 |
+## ZH-Scores distributions
+### Raw ZH-Scores
+![](images/zh-score_distribs.png)
+### Log ZH-Scores
+![](images/log_zh-score_distribs.png)
