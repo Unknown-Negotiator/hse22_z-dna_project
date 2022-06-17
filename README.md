@@ -2,6 +2,7 @@
 # WORK IS STILL IN PROGRESS!!!
 Целью работы над проектом является поиск и изучение консервативных участков генома Z-ДНК в геномах архей
 ## [Project code in Google Colab](https://colab.research.google.com/drive/1Q_4nR-U5dukp_yH2FWGqDejpabD9DNEb?usp=sharing)
+## Genomes stats
 | organism                           |   seq_num |   genome_length |   gene_num |   coding_dna_% |   zdna_500_num |   zdna_500_total_len |
 |:-----------------------------------|----------:|----------------:|-----------:|---------------:|---------------:|---------------------:|
 | Methanopyrus kandleri AV19         |         1 |         1694969 |       1816 |       0.900608 |          21149 |               210416 |
